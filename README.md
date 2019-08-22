@@ -1,4 +1,4 @@
-This repository is a curated list of awesome things related to PlayCanvas.🎉
+This repository is a curated list of awesome things related to PlayCanvas.🎉  
 PlayCanvas is used for HTML5 Ganes and Website.
 
 ### HTML5 Games
