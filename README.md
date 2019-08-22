@@ -15,7 +15,12 @@ PlayCanvas is used for HTML5 Ganes and Website.
 - VOXELCANVAS  
 [https://voxelcanvas.me/](https://voxelcanvas.me/)
 
+- Megrocket  
+[https://megrocket.com/index.html](https://megrocket.com/index.html)
+
+- CoinDozer  
+[https://yushimatenjin.github.io](https://yushimatenjin.github.io)
 
 ### Other
-- BenchMark  
+- BenchMark
 [https://playcanvas.jp/benchmark/](https://playcanvas.jp/benchmark/)
