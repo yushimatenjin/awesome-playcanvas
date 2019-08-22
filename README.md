@@ -18,7 +18,7 @@ PlayCanvas is used for HTML5 Ganes and Website.
 - Megrocket  
 [https://megrocket.com/index.html](https://megrocket.com/index.html)
 
-- CoinDozer  
+- CoinDozer | It works with Progressive Web App.  
 [https://yushimatenjin.github.io](https://yushimatenjin.github.io)
 
 ### Other
