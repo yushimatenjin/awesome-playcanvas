@@ -12,7 +12,7 @@ This repository is a curated list of awesome things related to PlayCanvas.🎉
 - VOXELCANVAS  
 [https://voxelcanvas.me/](https://voxelcanvas.me/)
 
-### HTML5 Games
+### Browser Games
 - Anzu photo   
 [https://twitter.com/MikumoAnzu/status/1016876254396444672](https://twitter.com/MikumoAnzu/status/1016876254396444672)
 
@@ -22,12 +22,14 @@ This repository is a curated list of awesome things related to PlayCanvas.🎉
 - CoinDozer | It works with Progressive Web App.  
 [https://yushimatenjin.github.io](https://yushimatenjin.github.io)
 
-- Crypto Derby |  Blockchain x HTML5 Game
+####  BlockChain Games
+
+- Crypto Derby |  Blockchain x HTML5 Game  
 [https://cryptoder.by](https://cryptoder.by)
 
-- Contract Servant Card Game | Blockchain x HTML5 Game
+- Contract Servant Card Game | Blockchain x HTML5 Game  
 [https://cscg.jp/](https://cscg.jp/) 
 
-### Other
+### BenchMark
 - BenchMark
 [https://playcanvas.jp/benchmark/](https://playcanvas.jp/benchmark/)
